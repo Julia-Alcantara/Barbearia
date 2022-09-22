@@ -1,2 +1,2 @@
 # Barbearia
-Site feito com HTML e CSS com o curso da Alura.
+Site feito com HTML e CSS - curso Alura.
